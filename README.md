@@ -159,21 +159,15 @@ Whenever the product price falls within the specified range, a notification is g
 
 # 📂 Folder Structure
 
-```
+```text
 project/
 │
 ├── frontend/
-│
 ├── backend/
-│
 ├── scraper/
-│
 ├── database/
-│
 ├── static/
-│
 ├── templates/
-│
 └── README.md
 ```
 
@@ -186,26 +180,6 @@ project/
 - API-based price collection
 - User Review Comparison
 - More E-Commerce Integrations
-
----
-
-# 📸 Screenshots
-
-> Add screenshots of your application here.
-
-Example:
-
-```
-Home Page
-
-Search Results
-
-Price Trend
-
-Watchlist
-
-Alerts
-```
 
 ---
 
